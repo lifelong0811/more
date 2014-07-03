@@ -15,7 +15,7 @@ public:
      * responsible for the input
      *
      * */
-    int see_more();
+    int see_more(FILE* fp);
     /*
      * responsible for the output
      * */
