@@ -19,3 +19,7 @@
 *.exe
 *.out
 *.app
+Makefile
+more
+more.pro.user
+mymore.h.gch
